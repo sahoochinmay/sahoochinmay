@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://sahoochinmay.github.io)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://sahoochinmay.github.io)**
 
 - 📫 Reach me in **linkedin**
 
