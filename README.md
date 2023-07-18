@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23915EFF&size=25&vCenter=true&lines=Hi+there+%2CI'm+Sahoochinmay;I+develop+react+applications;You+can+c%C3%B8ntact+me+in+linkedin.;)](https://sahoochinmay.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=25&vCenter=true&lines=Hi+there+%2CI'm+Sahoochinmay;I+develop+react+applications;You+can+c%C3%B8ntact+me+in+linkedin.;)](https://sahoochinmay.github.io)
 
 ## 💫 About Me 
 
