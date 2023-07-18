@@ -16,30 +16,6 @@
     
 - ❤️ Love : Exploring new things.
 
-```javascript
-const sahoochinmay = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "C", "C++", "Java", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "app dev", "PWA Dev"],
-    technologies: {
-        webApp: {
-            js,ts: ["ReactJs","NextJs"]
-        },
-        UI:{
-         js :["ChakraUi","MaterialUI"]
-        },
-        databases: [ "MySql", "firebase"],
-        misc: [ "c", "c++", "php", "chartJs"]
-    },
-    architecture: [
-    "Serverless Architecture", "Progressive web applications", "Single page applications"
-    ],
-    funFact: "I love Traveling.🚴",
-    contact:{
-    email:"sahoochinmay54@gmail.com",
-    },
-};
-```
 ---
 ## 🌐 Socials
 
