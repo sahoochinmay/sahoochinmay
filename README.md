@@ -4,13 +4,13 @@
 
 -  👨‍💻 I'm passionate in coding and development.
 
-- 🌱 I’m currently learning **React Native and TypeScript**
+- 🌱 I’m currently learning **React Native and TypeScript**.
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **React Projects**.
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://sahoochinmay.github.io)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://sahoochinmay.github.io)**.
 
-- 📫 Reach me in **linkedin**
+- 📫 Reach me in **linkedin**.
 
 - ⚡ Fun fact: I love Traveling.🚴
     
